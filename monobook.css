@@ -242,7 +242,7 @@ pre {
 #contentSub, #contentSub2 {
 	font-size: 84%;
 	line-height: 1.2em;
-	margin: 0 0 1.4em 1em;
+	margin: 0 0 .4em 1em;
 	color: #7d7d7d;
 	width: auto;
 }
@@ -289,7 +289,7 @@ span.subpages {
 	border: 1px solid #aaa;
 	background-color: #f9f9f9;
 	padding: 5px;
-	margin-top: 1em;
+	/*margin-top: 1em;*/
 	clear: both;
 }
 /* currently unused, intended to be used by a metadata box
